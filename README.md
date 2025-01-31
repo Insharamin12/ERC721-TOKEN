@@ -14,13 +14,15 @@ Key Features
 ## Prerequisites
 - git
   
-You'll know you've done it right if you can run git --version and see a version number.
+You'll know you've done it right if you can run `git --version` and see a version number.
+
 - anvil
   
-You'll know you've done it right if you can run anvil --version and see an output like anvil 0.2.0 (fdd321b 2024-10-15T00:21:13.119600000Z)
+You'll know you've done it right if you can run `anvil --version` and see an output like `anvil 0.2.0 (fdd321b 2024-10-15T00:21:13.119600000Z)`
+
 - moccasin
   
-You'll know you've done it right if you can run mox --version and get an output like: Moccasin CLI v0.3.0
+You'll know you've done it right if you can run `mox --version` and get an output like: Moccasin CLI v0.3.0
 
 
 # Setup & Installation
